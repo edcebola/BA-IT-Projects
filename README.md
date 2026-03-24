@@ -40,6 +40,6 @@ This repository was created to:
 ## Contact
 
 If you would like to connect or collaborate, feel free to reach out via  
-**GitHub:** [@Eduard-02](https://github.com/Eduard-02)
+**GitHub:** [@edcebola](https://github.com/edcebola)
 Or
 **LinkedIn:** [@eduardo-cebola](https://linkedin.com/in/eduardo-cebola)
